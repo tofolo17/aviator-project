@@ -1,0 +1,10 @@
+# Coleta (Selenium)
+selenium>=4.6
+webdriver-manager>=4.0
+pytest>=7.0
+
+# Análise (notebook)
+notebook
+pandas
+scipy
+openpyxl
